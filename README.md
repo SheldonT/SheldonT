@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Sheldon, and I'm currently a software development student with <a href="https://www.getcoding.ca/"> Get-Coding </a>.
+
 <!--
 **SheldonT/SheldonT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
